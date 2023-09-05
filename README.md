@@ -51,6 +51,11 @@ Then, go to required actions, and check boxes like this : <br>
 <br>
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/d331f2d9-243c-48c2-8d72-c5bdeb6c8543">
 
+Next, go to the realm settings and activtate the use registration in login. <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/9217d658-84a6-4bbc-bee5-9cb300e50556">
+
+
 
 
 
