@@ -41,7 +41,7 @@ Important : the WebAuthn Passwordless Authenticator must to be required and not 
 
 <br>
 After deleting and adding these steps on you're flow, the flow plan supposed to look like this : 
-<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/9745fe8a-3955-456e-97b8-08c71fd80b0a"
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/9745fe8a-3955-456e-97b8-08c71fd80b0a">
 
 
 
