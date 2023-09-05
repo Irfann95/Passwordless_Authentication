@@ -45,9 +45,12 @@ After deleting and adding these steps on you're flow, the flow plan supposed to 
 <br>
 Then, click in the case "Action", click "Blin flow", verify that binding type is Browser flow and save your flow.<br>
 <br>
-<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/aaeaf4e0-45d2-45f1-99cd-1d6f11c89cd6">
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/aaeaf4e0-45d2-45f1-99cd-1d6f11c89cd6"><br>
+<br>
+Then, go to required actions, and check boxes like this : <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/d331f2d9-243c-48c2-8d72-c5bdeb6c8543">
 
-Then, go to required actions, and check boxes like this :
 
 
 
