@@ -47,6 +47,7 @@ Then, click in the case "Action", click "Blin flow", verify that binding type is
 <br>
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/aaeaf4e0-45d2-45f1-99cd-1d6f11c89cd6">
 
+Then, go to required actions, and check boxes like this :
 
 
 
