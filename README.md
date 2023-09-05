@@ -5,3 +5,7 @@
 <h2>Prerequisite</h2>
 To configure a passwordless authentification, you have, of cource, to install Keyclaok. I send you an installation guide here:  https://www.keycloak.org/docs/18.0/server_installation/ 
 Important: Install et set up the latest version of java is required.
+
+<h2>Tutorial</h2>
+
+Once installation is finish, you're supposed to be connected on Keycloak as an administrator and this menu supposed to be shown.
