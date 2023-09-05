@@ -56,7 +56,7 @@ Next, go to the realm settings and activtate the use registration in login. <br>
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/9217d658-84a6-4bbc-bee5-9cb300e50556"> <br>
 <br>
 
-Now, you are confingured the Paaswordless Authentification method in your realm.
+Now, you are confingured the Passwordless Authentification method in your realm.
 
 
 
