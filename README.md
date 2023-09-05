@@ -8,4 +8,11 @@ Important: Install et set up the latest version of java is required.
 
 <h2>Tutorial</h2>
 
-Once installation is finish, you're supposed to be connected on Keycloak as an administrator and this menu supposed to be shown.
+Once installation is finish, you're supposed to be connected on Keycloak as an administrator and this menu supposed to be shown. <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/0d807052-4630-4709-bc30-07fb712a460c" alt="Texte alternatif" width="800" height="400">
+
+Then, you have to click on "master" and click "create realm". A realm is isolate space where you manage objects, including users, applications, roles, and groups. Then you can rename your realm.
+
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/431a5118-1830-452d-b322-dd5fc27beab2" alt="Texte alternatif" width="300" height="200"><br><img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/dfad20f5-0d56-4765-9cfa-b8e13ade0b19" alt="Texte alternatif" width="350" height="200">
+
