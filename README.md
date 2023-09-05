@@ -3,8 +3,8 @@
 <p>Keycloak is an open-source software devellopped by Redhat allowing to create an unique authentification method across identity and access management.In other words, this software allows the security of mobile et web aplications by managing users identity and by controling the ressources access. There are differents fonctionalitys in Keycloak such as management of users, authentification, authorization ant management of sessions for web and mobiles applications. Here, I will you show how to configure a passwordless authentification thanks to Keycloak </p>
 
 <h2>Prerequisite</h2>
-To configure a passwordless authentification, you have, of cource, to install Keyclaok. I send you an installation guide here:  https://www.keycloak.org/docs/18.0/server_installation/ 
-Important: Install et set up the latest version of java is required.
+To configure a passwordless authentification, you have, of cource, to install Keyclaok. I send you an installation guide here:  https://www.keycloak.org/docs/18.0/server_installation/ <br>
+<br>Important: Install et set up the latest version of java is required.
 
 <h2>Tutorial</h2>
 
@@ -20,13 +20,19 @@ Once your realm created, click to "Authentification" in Configure Menu and click
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/cfa0ffda-3135-480b-a768-f873742d5751" alt="Texte Alternatif" width="350" height="200">
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/ad1b683d-f15f-4e51-ac5e-950bbd07caf0" alt="Texte alternatif">
 
-Then, go to flow details and delete these two steps ; "Username Password Form" and "OTP and WebAuthn Browser - Conditional OTP.
+Then, go to flow details, delete these two steps ; "Username Password Form" and "OTP and WebAuthn Browser - Conditional OTP and add step to OTP and WebAuthn forms.<br>
+<br>
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/0cca3417-b713-46b4-8b6e-778be5d1d8e3" alt="" width="300" height="200"> <br>
 <br>
-<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/b1a168fa-ed30-4635-b79d-f27a99c1dea2" alt="" width="400" height="200">
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/b1a168fa-ed30-4635-b79d-f27a99c1dea2" alt="" width="400" height="200"> <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/20bfcf79-b875-45b7-8860-a48fe70a653f" alt="" width="400" height="200"> <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/8d42a1fd-0803-4778-9c31-44e6791d8a1a" alt=""> <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/d21f4175-824b-49df-bcb8-59748411cbaf" alt="">
 
-<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/20bfcf79-b875-45b7-8860-a48fe70a653f" alt="" width="400" height="200">
 
- 
+
 
 
