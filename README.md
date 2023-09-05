@@ -16,8 +16,17 @@ Then, you have to click on "master" and click "create realm". A realm is isolate
 
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/431a5118-1830-452d-b322-dd5fc27beab2" alt="Texte alternatif" width="300" height="200"><img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/dfad20f5-0d56-4765-9cfa-b8e13ade0b19" alt="Texte alternatif" width="300" height="200">
 
-Once your realm created, click to "Authentification" in Configure Menu and click on browser file and duplicate this flow.
+Once your realm created, click to "Authentification" in Configure Menu and click on browser file, duplicate this flow ansd rename the duplicated flow "OTP and WebAuthn".<br>
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/cfa0ffda-3135-480b-a768-f873742d5751" alt="Texte Alternatif" width="350" height="200">
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/ad1b683d-f15f-4e51-ac5e-950bbd07caf0" alt="Texte alternatif">
+
+Then, go to flow details and delete these two steps ; "Username Password Form" and "OTP and WebAuthn Browser - Conditional OTP.
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/0cca3417-b713-46b4-8b6e-778be5d1d8e3" alt="" width="300" height="200"> <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/b1a168fa-ed30-4635-b79d-f27a99c1dea2" alt="" width="400" height="200">
+
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/20bfcf79-b875-45b7-8860-a48fe70a653f" alt="" width="400" height="200">
+
+ 
 
 
