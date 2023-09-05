@@ -34,9 +34,16 @@ Click on "Add step" to OTP and WebAuthn forms and add "Username Form" and "WebAu
 <br>
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/d21f4175-824b-49df-bcb8-59748411cbaf" alt=""><br>
 <br>
-<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/bc749186-3942-4b01-a74d-f41939f45ffc">
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/bc749186-3942-4b01-a74d-f41939f45ffc"><br>
+<br>
+Important : the WebAuthn Passwordless Authenticator must to be required and not Alternative. <br>
+<img src "https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/607ad067-1848-40b9-a784-86bab6f57820">
 
+<br>
+After deleting and adding these steps on you're flow, the flow plan supposed to look like this : 
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/9745fe8a-3955-456e-97b8-08c71fd80b0a"
 
+Important : 
 
 
 
