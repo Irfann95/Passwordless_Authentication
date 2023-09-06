@@ -86,8 +86,10 @@ After completing the form, click on "register" and on the link allowing to revea
 
 
 Return to your administrator account, and go to the "Users" section. Normally, you can view your user account in this section and save the user's details.
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/c5a4d9a9-7dd8-448d-a40c-b1b6ec04536e"><br>
+<br>
 
-Go back to your user account and sign out, now you can sign in by scanning the QR Code 
+Go back to your user account and sign out, now you can sign in by scanning the QR Code.
 
 
 
