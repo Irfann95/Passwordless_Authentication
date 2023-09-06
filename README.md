@@ -80,9 +80,9 @@ We want to be connected as an user, and and since we are a new users, we have to
 After completing the form, click on "register" and on the link allowing to reveal a QR code. Scan the QRCode in you're phone and, normally, you're supposed to be connected as an user.
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/458a705d-4795-4cd7-8ecb-cf06f4b19f2d"> <br>
 <br>
-<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/55ff12a0-8b0f-4805-8706-392be1f252ec" width="300" height="400"><br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/55ff12a0-8b0f-4805-8706-392be1f252ec" ><br>
 <br>
-<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/eec2cca8-4cb5-4790-873a-5263a6c57217">
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/eec2cca8-4cb5-4790-873a-5263a6c57217" width="300" height="400">
 
 
 Return to your administrator account, and go to the "Users" section. Normally, you can view your user account in this section and save the user's details.
