@@ -71,11 +71,11 @@ A new home window supposed to be open. Now we try to sign in with Passwordless A
 <br>
 Click on "Sign" at top right.<br>
 <br>
-We want to be connected as an user, and and since we are a new users, we have to click on "resgister" and complete <br>
+We want to be connected as an user, and and since we are a new users, we have to click on "resgister" and complete the form. <br>
 <br>
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/883d5d62-ba41-46c6-8043-348aa173d664"> <br>
 <br>
-<img src=""> <br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/aed714b0-c65e-444c-82ad-69513ab39602" width="300" height="200"> <br>
 <br>
 
 
