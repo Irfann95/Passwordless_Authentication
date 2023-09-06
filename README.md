@@ -75,10 +75,19 @@ We want to be connected as an user, and and since we are a new users, we have to
 <br>
 <img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/883d5d62-ba41-46c6-8043-348aa173d664"> <br>
 <br>
-<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/aed714b0-c65e-444c-82ad-69513ab39602" width="300" height="200"> <br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/aed714b0-c65e-444c-82ad-69513ab39602" width="300" height="400"> <br>
 <br>
+After completing the form, click on "register" and on the link allowing to reveal a QR code. Scan the QRCode in you're phone and, normally, you're supposed to be connected as an user.
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/458a705d-4795-4cd7-8ecb-cf06f4b19f2d"> <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/55ff12a0-8b0f-4805-8706-392be1f252ec" width="300" height="400"><br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/eec2cca8-4cb5-4790-873a-5263a6c57217">
 
 
+Return to your administrator account, and go to the "Users" section. Normally, you can view your user account in this section and save the user's details.
+
+Go back to your user account and sign out, now you can sign in by scanning the QR Code 
 
 
 
