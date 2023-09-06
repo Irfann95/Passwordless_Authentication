@@ -58,8 +58,25 @@ Next, go to the realm settings and activtate the use registration in login. <br>
 
 Now, you are confingured the Passwordless Authentification method in your realm.
 
+<h2>Test</h2>
 
-
+Now, a function test can be performed. Let's get start:
+First of all, you need to go to the "clients" section under "manage". Then click on the URL of client named "account". <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/762d5370-3fd9-41a6-92a7-10bd0b2c9401"> <br>
+<br>
+A new home window supposed to be open. Now we try to sign in with Passwordless Authentification. <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/883d5d62-ba41-46c6-8043-348aa173d664"> <br>
+<br>
+Click on "Sign" at top right.<br>
+<br>
+We want to be connected as an user, and and since we are a new users, we have to click on "resgister" and complete <br>
+<br>
+<img src="https://github.com/Irfann95/Passwordless_Authentication/assets/142778082/883d5d62-ba41-46c6-8043-348aa173d664"> <br>
+<br>
+<img src=""> <br>
+<br>
 
 
 
